@@ -1,0 +1,2 @@
+# AlfaServern
+Minecraft Alpha Server
